@@ -119,8 +119,7 @@
 
 ## 22. Count the lines in ex1.acc and ex1.dat.
 
-    ex1.acc 1675
-    ex1.dat 1675
+    wc -l ex1.acc ex1.dat
 
 
 ## 23. Concatenate ex1.acc and ex1.dat in the file ex1.tot, 
